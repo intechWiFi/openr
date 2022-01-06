@@ -10,7 +10,7 @@ double-conversion
 double-conversion-devel
 
 [debs]
-double-conversion3
+libdouble-conversion3
 libdouble-conversion-dev
 
 [build]
